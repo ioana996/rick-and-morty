@@ -4,11 +4,11 @@ A ReactJS project following a freeCodeCamp course: https://www.freecodecamp.org/
 
 The topics covered in this project are:
 
-React Hooks (useState, useEffect)
-React Components
-Fetch API
-Bootstrap - for styling
-Pagination
-Search bar
-Data Filtering
-Dynamic Routing
+- React Hooks (useState, useEffect)
+- React Components
+- Fetch API
+- Bootstrap - for styling
+- Pagination
+- Search bar
+- Data Filtering
+- Dynamic Routing
