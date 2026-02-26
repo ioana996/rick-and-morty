@@ -1,6 +1,6 @@
 # rick-and-morty
 
-A ReactJS project following a freeCodeCamp course: https://www.freecodecamp.org/news/react-js-project-build-a-rick-and-morty-character-wiki/
+A project built to deepen my understanding of pagination patterns, search mechanics, and advanced routing strategies in React.js.
 
 The topics covered in this project are:
 
